@@ -1,0 +1,79 @@
+.jumbotron {
+  text-align: center;
+  background-color: teal;
+  padding-left: 5%;
+  width: 100%;
+  font-family: "Georgia", Times, "Times New Roman", serif;
+  color: white;
+  font-size: 300%;
+
+}
+
+
+h2 {
+  border-bottom: thin solid gray;
+  color: teal;
+  font-family: "Georgia", Times, "Times New Roman", serif;
+}
+
+nav {
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  float: right;
+  padding: 10px;
+  margin-top: 50px;
+  margin-right: 5%;
+  background-color: teal;
+}
+
+li {
+  border-right: thin solid black;
+  font-family: Arial, Helvetica, sans-serif;
+  
+  
+}
+
+mark {
+  background-color: lightgreen;
+  color: red;
+}
+
+div.container-md {
+  margin-top: 2%;
+  padding: 10px;
+  background-color: white;
+  width: 70%;
+}
+
+body {
+  background-color: rgb(234, 234, 234);
+}
+
+footer {
+  background-color: gray;
+  margin-top: 5%;
+  padding: 10px;
+  text-align: center;
+  font-size: 12px;
+  font-weight: bold;
+  border-top: thick solid teal;
+  color: white;
+}
+
+p {
+  font-family: "Spartan", sans-serif;
+  overflow: auto;
+  margin: 1%;
+  color: gray;
+}
+img {
+  float: left;
+  margin: 1%;
+}
+
+.clearfix {
+    clear: both;
+    float: right;
+    
+    
+}
